@@ -1,2 +1,2 @@
-# my-app
-sample app 
+# google design 
+using Html5 and css 
